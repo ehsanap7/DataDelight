@@ -8,6 +8,7 @@ public class KafkaMicroApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KafkaMicroApplication.class, args);
+        System.out.println("Test");
     }
 
 }

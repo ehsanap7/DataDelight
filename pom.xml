@@ -45,6 +45,13 @@
             <artifactId>spring-kafka-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
